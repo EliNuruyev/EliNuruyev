@@ -1,6 +1,6 @@
  ![MasterHead](http://images.ctfassets.net/em6l9zw4tzag/5xTW0mvFNppje2oQqeGpsv/0626aa5fe2a8498b491b2b127e403fff/TypescriptMigration.jpg)
 <h1 align="center">Hi 👋, I'm Ali Nuruyev</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
