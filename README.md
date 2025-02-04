@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://az.linkedin.com/in/ali-nuruyev-1aa792278?trk=people-guest_people_search-card" target="blank"><img align="center" 
                                                                                                                src ="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-                                                                                                               alt="əli nuruyev" height="30" width="40" /></a>
+                                                                                                               alt="əli nuruyev" height="30" width="30" /></a>
 
 </p>
 
