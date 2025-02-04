@@ -18,7 +18,7 @@
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="30" width="30" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30" width="30" />
  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" width="30" style="object-fit:contain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" width="40" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elinuruyev&show_icons=true&locale=en&layout=compact" alt="elinuruyev" /></p>
