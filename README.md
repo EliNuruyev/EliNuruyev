@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" height="30" width="30" />
+<img src="https://e7.pngegg.com/pngimages/821/798/png-clipart-oracle-certified-professional-java-se-programmer-computer-programming-programming-language-java-database-connectivity-java-logo-text-class.png" height="30" width="30" />
  
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" height="30" width="30" />
 <img src="https://img.icons8.com/fluent/512/css3.png" height="30" width="30" />
