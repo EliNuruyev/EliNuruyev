@@ -14,7 +14,7 @@
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="50" width="50" />
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" height="50" width="50" />
- <img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" height="50" width="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" width="50" />
  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
 
 </p>
