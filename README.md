@@ -15,7 +15,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" height="50" width="50" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" width="50" />
- <img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" height="50" width="50" />
 
 </p>
 
