@@ -21,7 +21,10 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" width="50" />
 <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG23.png" height="50" width="50" />
- 
+</p>
+<h3 align = "left">Version Controls</h3>
+<p align="left">
+<img src="https://banner2.cleanpng.com/20181228/lb/kisspng-github-computer-icons-version-control-source-code-revert-the-revert-and-avoid-conflicts-theodo-5c26e09ab6de71.015972601546051738749.jpg" height="50" width="50" />
 </p>
 <h3 align="left">Frontend </h3>
 <p align="left"> 
