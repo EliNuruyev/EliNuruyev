@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="30" width="30" />
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" height="30" width="30" />
  
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" height="30" width="30" />
 <img src="https://img.icons8.com/fluent/512/css3.png" height="30" width="30" />
