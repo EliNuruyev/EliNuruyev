@@ -1,4 +1,4 @@
- ![MasterHead]([http://images.ctfassets.net/em6l9zw4tzag/5xTW0mvFNppje2oQqeGpsv/0626aa5fe2a8498b491b2b127e403fff/TypescriptMigration.jpg](https://www.uplers.com/wp-content/uploads/2022/04/Top-10-Java-Developer-Skills-to-Check-Evaluate-When-Hiring-for-Your-Business-Hire-Now.jpg))
+ ![MasterHead](https://www.uplers.com/wp-content/uploads/2022/04/Top-10-Java-Developer-Skills-to-Check-Evaluate-When-Hiring-for-Your-Business-Hire-Now.jpg)
 <h1 align="center">Hi 👋, I'm Ali Nuruyev</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 
