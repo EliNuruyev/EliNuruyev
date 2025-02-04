@@ -12,6 +12,7 @@
 <h3 align="left">Backend </h3>
 <p align="left">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="50" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
  
 </p>
 
