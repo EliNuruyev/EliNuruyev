@@ -13,7 +13,7 @@
 <p align="left">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="50" width="50" />
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815526.png" height="50" width="50" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" height="50" width="50" />
+ <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" height="50" width="50" />
 
 </p>
 
