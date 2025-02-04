@@ -16,19 +16,18 @@
  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEdS0M4GZ3ZMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1668596168560?e=2147483647&v=beta&t=6aPntVft1UIyNirhownA97fUIjPpv0pQ5TLq6Xe_5z8" height="50" width="50" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" width="50" />
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" height="50" width="50" />
-  <img src="https://miro.medium.com/v2/resize:fit:400/1*1-13QxXfUE1mdrK_MfqonQ.png" height="50" width="70" />
 </p>
 
 
 <h3 align="left">Frontend </h3>
 <p align="left"> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" height="30" width="30" />
-<img src="https://img.icons8.com/fluent/512/css3.png" height="30" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="30" width="30" />
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="30" width="30" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30" width="30" />
- <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" width="40" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" height="50" width="50" />
+<img src="https://img.icons8.com/fluent/512/css3.png" height="50" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="50" width="50" />
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="50" width="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="50" width="50" />
+ <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="50" width="50" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elinuruyev&show_icons=true&locale=en&layout=compact" alt="elinuruyev" /></p>
