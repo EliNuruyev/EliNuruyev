@@ -20,7 +20,7 @@
 <h3 align = "left">Database</h3>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50" width="50" />
-<img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png" height="50" width="50" />
+<img src="https://pngimg.com/uploads/mysql/small/mysql_PNG23.png" height="50" width="50" />
  
 </p>
 <h3 align="left">Frontend </h3>
